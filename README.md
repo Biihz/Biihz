@@ -1,10 +1,10 @@
 <h1>Olá pessoinhas! </h1>
 
-<p align="center">Eu ❤️ resolver desafios usando tecnologia, ainda mais quando envolve investigar👩‍💻🔍. 
+<p align="center">Eu ❤️ resolver desafios usando tecnologia, ainda mais quando envolve análise👩‍💻🔍. 
 <br><br>
-<strong>Sou curiosa por descobrir novas coisas</strong> 
+<strong>Sou curiosa para descobrir novas coisas</strong> 
 e usá-las para criar soluções de alta qualidade, com um toque de criatividade!🚀 Atualmente, sou estudante de 
-<strong> análise e desenvolvimento de sistemas</strong> 
+<strong> ciência de dados e formada em técnico de análise e desenvolvimento de sistemas </strong> 
 e estou em busca de uma área da TI que eu possa me aprofundar.📚 </p>
 
 <p align="center"> <strong> Algumas das áreas que eu gosto são:</strong> - Cibersegurança - Engenharia - Ciência de dados</p>&nbsp;
