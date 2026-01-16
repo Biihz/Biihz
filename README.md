@@ -7,11 +7,9 @@ e usá-las para criar soluções de alta qualidade, com um toque de criatividade
 <strong> análise e desenvolvimento de sistemas</strong> 
 e estou em busca de uma área da TI que eu possa me aprofundar.📚 </p>
 
-<p align="center"> <strong> Algumas das áreas que eu gostei são:</strong> - Segurança da Informação - Programação full-stack - Ciência de dados.</p>&nbsp;
+<p align="center"> <strong> Algumas das áreas que eu gosto são:</strong> - Cibersegurança - Engenharia - Ciência de dados</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Biihz&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-Biihz.vercel.app/api/top-langs/?username=Biihz&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
