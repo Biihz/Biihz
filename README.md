@@ -5,7 +5,7 @@
 <strong>Sou curiosa para descobrir novas coisas</strong> 
 e usá-las para criar soluções de alta qualidade, com um toque de criatividade! Atualmente, sou estudante de 
 <strong> ciência de dados e formada em técnico de análise e desenvolvimento de sistemas. </strong> 
-Estou em busca de uma área da TI que eu possa me aprofundar.📚 </p>
+Estou em busca de adquirir mais repertório das diversas ramificações que existem na área de TI. 📚 </p>
 
 <p align="center"> <strong> Algumas das áreas que eu gosto são:</strong> - Cibersegurança - Engenharia - Ciência de dados</p>&nbsp;
 
