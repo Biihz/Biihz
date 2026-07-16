@@ -3,7 +3,7 @@
 <p align="center">Eu ❤️ resolver desafios usando tecnologia, ainda mais quando envolve análise👩‍💻🔍. 
 <br><br>
 <strong>Sou curiosa para descobrir novas coisas</strong> 
-e usá-las para criar soluções de alta qualidade, com um toque de criatividade!🚀 Atualmente, sou estudante de 
+e usá-las para criar soluções de alta qualidade, com um toque de criatividade! Atualmente, sou estudante de 
 <strong> ciência de dados e formada em técnico de análise e desenvolvimento de sistemas </strong> 
 e estou em busca de uma área da TI que eu possa me aprofundar.📚 </p>
 
