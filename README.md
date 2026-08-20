@@ -1,13 +1,13 @@
-<h1>Olá pessoinhas! </h1>
+<h1>Hello everyone! </h1>
 
-<p align="center">Eu ❤️ resolver desafios usando tecnologia, ainda mais quando envolve análise👩‍💻🔍. 
+<p align="center">I ❤️ solving challenges using technology, especially when they involve analysis 👩‍💻🔍.
 <br><br>
-<strong>Sou curiosa para descobrir novas coisas</strong> 
-e usá-las para criar soluções de alta qualidade, com um toque de criatividade! Atualmente, sou estudante de 
-<strong> ciência de dados e formada em técnico de análise e desenvolvimento de sistemas. </strong> 
-Estou em busca de adquirir mais repertório das diversas ramificações que existem na área de TI. 📚 </p>
+<strong>I'm curious about discovering new things</strong>
+and using them to create high-quality solutions with a touch of creativity! Currently, I am a student of
+<strong>Data Science and Information Systems, and I have a Technical Degree in Systems Analysis and Development.</strong>
+I am looking to expand my knowledge and gain experience across the different areas of IT. 📚 </p>
 
-<p align="center"> <strong> Algumas das áreas que eu gosto são:</strong> - Cibersegurança - Engenharia - Ciência de dados</p>&nbsp;
+<p align="center"><strong>Some of the areas I am interested in:</strong> Cybersecurity - Software Engineering - Data Science</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
  </div>
@@ -48,6 +48,18 @@ Estou em busca de adquirir mais repertório das diversas ramificações que exis
 
 &nbsp;
 &nbsp;
+
+## Projects
+
+### 📊 Data Science
+
+- **OpsPulse** — Incident analysis and prediction project using data analysis, forecasting and machine learning.
+
+### 💻 Software Engineering
+
+### ☁️ Cloud
+
+### 🔐 Cybersecurity
 
 ## Contacts:
 
