@@ -1,4 +1,10 @@
-<h1>Hello everyone! </h1>
+<p align="center">
+  🇺🇸 <a href="#english">English</a> | 🇧🇷 <a href="#português">Português</a>
+</p>
+
+## English
+
+<h1>Hey everyone!</h1>
 
 <p align="center">I ❤️ solving challenges using technology, especially when they involve analysis 👩‍💻🔍.
 <br><br>
@@ -7,7 +13,22 @@ and using them to create high-quality solutions with a touch of creativity! Curr
 <strong>Data Science and Information Systems, and I have a Technical Degree in Systems Analysis and Development.</strong>
 I am looking to expand my knowledge and gain experience across the different areas of IT. 📚 </p>
 
-<p align="center"><strong>Some of the areas I am interested in:</strong> Cybersecurity - Software Engineering - Data Science</p>&nbsp;
+<p align="center"><strong>Some of the areas I am interested in:</strong> Cybersecurity - Software Engineering - Data Science</p>
+
+---
+
+## Português
+
+<h1>Olá pessoinhas!</h1>
+
+<p align="center">Eu ❤️ resolver desafios usando tecnologia, ainda mais quando envolvem análise 👩‍💻🔍.
+<br><br>
+<strong>Sou curiosa para descobrir novas coisas</strong>
+e usá-las para criar soluções de alta qualidade, com um toque de criatividade! Atualmente, sou estudante de
+<strong>Ciência de Dados e Sistemas da Informação, formada em Técnico de Análise e Desenvolvimento de Sistemas.</strong>
+Estou em busca de adquirir mais repertório das diversas ramificações que existem na área de TI. 📚 </p>
+
+<p align="center"><strong>Algumas das áreas que me interessam:</strong> Cibersegurança - Engenharia de Software - Ciência de Dados</p>
 
 <div  align="center" style="margin-bottom:100px">
  </div>
